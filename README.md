@@ -1,7 +1,7 @@
 ## Hello guys ! My name is Fabricio Pontes!
 
 
-Tenho 21 anos, sou nascido na cidade do Rio de Janeiro mas criado pelo mundo. Sou iniciante na area da programação entretanto compenso a falta de experiencia com vontade de aprendizado. Possuo como hobbies ou paixões os esportes como o futebol e natação, sou
+Tenho 22 anos, sou nascido na cidade do Rio de Janeiro mas criado pelo mundo. Sou iniciante na area da programação entretanto compenso a falta de experiencia com vontade de aprendizado. Possuo como hobbies ou paixões os esportes como o futebol e natação, sou
   amante do mundo dos games e sou apaixonado em aprender novos idiomas e culturas, onde por meio de experiência internacional me comunico em francês e por meio dos estudos em inglês.
 <div align="center">
   <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="600px">
