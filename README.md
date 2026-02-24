@@ -97,5 +97,5 @@
     align="left"
     src="https://streak-stats.demolab.com?user=Fabponts&theme=tokyonight&hide_border=true"/>
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fabponts&layout=compact&theme=tokyonight&hide_border=true"/>
+  src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fabponts&layout=compact&theme=tokyonight&hide_border=true"
 </p>
