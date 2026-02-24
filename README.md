@@ -96,5 +96,5 @@
   <img 
     align="left"
     src="https://streak-stats.demolab.com?user=Fabponts&theme=tokyonight&hide_border=true"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabponts&theme=tokyonight" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabponts&theme=nord_dark" />
 </p>
